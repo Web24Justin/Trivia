@@ -1,4 +1,9 @@
 import React from 'react';
+import GameMode from './GameMode';
+import Difficulty from './Difficulty';
+import Categories from './Categories';
+import GameType from './GameType';
+import Players from './Players';
 
 const Menu = () => {
 	return (

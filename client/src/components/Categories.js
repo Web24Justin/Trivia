@@ -1,6 +1,6 @@
 import React from 'react';
 
 const Categories = () => {
-
-}
-export default Categories
+	return<div>I am a Category.</div>;
+};
+export default Categories;

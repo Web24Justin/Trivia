@@ -1,6 +1,6 @@
 import React from 'react';
 
 const Difficulty = () => {
-
-}
-export default Difficulty
+	return<div>I am a Difficulty.</div>;
+};
+export default Difficulty;
